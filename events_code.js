@@ -165,35 +165,38 @@ function createModal(event,eDate) {
 	str = str.concat('<span class="close">&times;</span>')
 	str = str.concat('<br>')
 	// str = str.concat('<div class="modal-content-info">')
-	str = str.concat('<h1>'+event.title+'</h1>')
+	// str = str.concat('<h1>'+event.title+'</h1>')
 
-	// Testing table separation
-	str = str.concat('<div style="display:table">');
-	str = str.concat('<div style="display:table-cell;vertical-align:top;width:100%">')
-	if ((event.time!=undefined) && (event.time!="")) {
-		str = str.concat('<p>'+eDate.toDateString()+' - '+event.time+'</p>');
-	} else {
-		str = str.concat('<p>'+eDate.toDateString()+' - 9:30 AM</p>');
-		str = str.concat('<p>Jordan Hall (Building 420), Room 419</p>')
-	}
-	str = str.concat('<h2>'+event.author+'</h2>')
-	str = str.concat('<p>'+event.info+'</p>')
+	// Flyer
+	str = str.concat('<img width="100%" src='+'"flyers/devineni.png"'+'></img>')
+
+	// // Testing table separation
+	// str = str.concat('<div style="display:table">');
+	// str = str.concat('<div style="display:table-cell;vertical-align:top;width:100%">')
+	// if ((event.time!=undefined) && (event.time!="")) {
+	// 	str = str.concat('<p>'+eDate.toDateString()+' - '+event.time+'</p>');
+	// } else {
+	// 	str = str.concat('<p>'+eDate.toDateString()+' - 9:30 AM</p>');
+	// 	str = str.concat('<p>Jordan Hall (Building 420), Room 419</p>')
+	// }
+	// str = str.concat('<h2>'+event.author+'</h2>')
+	// str = str.concat('<p>'+event.info+'</p>')
+	// // str = str.concat('</div>')
+	// // str = str.concat('<div class="modal-content-img">')
+	// // str = str.concat('</div>')
 	// str = str.concat('</div>')
-	// str = str.concat('<div class="modal-content-img">')
+
+	// // Image cell
+	// str = str.concat('<div style="display:table-cell;vertical-align:top">')
+	// str = str.concat('<img class="modal-img" src="./imgs/'+event.image+'"/>')
 	// str = str.concat('</div>')
-	str = str.concat('</div>')
 
-	// Image cell
-	str = str.concat('<div style="display:table-cell;vertical-align:top">')
-	str = str.concat('<img class="modal-img" src="./imgs/'+event.image+'"/>')
-	str = str.concat('</div>')
+	// // Close table
+	// str = str.concat('</div>')
 
-	// Close table
-	str = str.concat('</div>')
-
-	// Abstract
-	str = str.concat('<h2>Abstract</h2>')
-	str = str.concat('<p>'+event.abstract+'</p>')
+	// // Abstract
+	// str = str.concat('<h2>Abstract</h2>')
+	// str = str.concat('<p>'+event.abstract+'</p>')
 
 	// Close modal
 	str = str.concat('</div>')

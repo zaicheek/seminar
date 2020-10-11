@@ -61,21 +61,21 @@
 	
 	var events = [	
 	{
-		"title":"TBA",
-		"author":"Firstname Lastname",
+		"title":"Neural processing for flexible behavior in the Drosophila taste system",
+		"author":"Anita Devineni",
 		"type":"Talk",
-		"date":"YYYY/MM/DD",
-		"info":"Dept of X, University of Y",
-		"image":"default.jpg",
+		"date":"2020/10/16",
+		"info":"Department of Neuroscience, Columbia Unviersity",
+		"image":"devineni.jpg",
 		"abstract":""
-	},
-	{
-		"title":"TBA",
-		"author":"Firstname Lastname",
-		"type":"Talk",
-		"date":"YYYY/MM/DD",
-		"info":"Dept of X, University of Y",
-		"image":"default.jpg",
-		"abstract":""
-	} // last talk has no comma
+	}
+	// {
+	// 	"title":"TBA",
+	// 	"author":"Firstname Lastname",
+	// 	"type":"Talk",
+	// 	"date":"YYYY/MM/DD",
+	// 	"info":"Dept of X, University of Y",
+	// 	"image":"default.jpg",
+	// 	"abstract":""
+	// } // last talk has no comma
 	];
