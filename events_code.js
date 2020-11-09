@@ -123,7 +123,7 @@ function createInfo(event,eDate) {
 		if (event.time!=undefined) {
 			str = str.concat('<h5>'+eDate.toDateString()+' - '+event.time+'</h5>');
 		} else {
-			str = str.concat('<h5>'+eDate.toDateString()+' - 11 AM</h5>');
+			str = str.concat('<h5>'+eDate.toDateString()+' - Noon</h5>');
 		}
 		str = str.concat('<br>')
 		str = str.concat('<h5>Journal club led by '+event.author+'</h5>')
@@ -139,7 +139,7 @@ function createInfo(event,eDate) {
 		if (event.time!=undefined) {
 			str = str.concat('<h5>'+eDate.toDateString()+' - '+event.time+'</h5>');
 		} else {
-			str = str.concat('<h5>'+eDate.toDateString()+' - 11 AM</h5>');
+			str = str.concat('<h5>'+eDate.toDateString()+' - Noon</h5>');
 		}
 		str = str.concat('<br>')
 		str = str.concat('<h5>'+event.author+'</h5>')
