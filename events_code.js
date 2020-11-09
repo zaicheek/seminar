@@ -131,7 +131,7 @@ function createInfo(event,eDate) {
 	} else {
 		// Create left div (img)
 		str = str.concat('<div class="info_left">'+
-			'<img class="info_img" src="./imgs/'+event.image+'"/>'
+			'<img class="info_img" src="./imgs/'+event.prefix+'.jpg"/>'
 			+'</div>')
 		// Add title
 		str = str.concat('<div class="info_right">')
@@ -168,7 +168,7 @@ function createModal(event,eDate) {
 	// str = str.concat('<h1>'+event.title+'</h1>')
 
 	// Flyer
-	str = str.concat('<img width="100%" src='+'"flyers/devineni.png"'+'></img>')
+	str = str.concat('<img width="100%" src='+'"flyers/'+event.prefix+'.png"'+'></img>')
 
 	// // Testing table separation
 	// str = str.concat('<div style="display:table">');

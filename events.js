@@ -61,12 +61,21 @@
 	
 	var events = [	
 	{
+		"title":"Hippocampal-cortical coordination and memory processing",
+		"author":"Jai Yu",
+		"type":"Talk",
+		"date":"2020/11/09",
+		"info":"University of Chicago",
+		"prefix":"yu",
+		"abstract":""
+	},
+	{
 		"title":"Neural processing for flexible behavior in the Drosophila taste system",
 		"author":"Anita Devineni",
 		"type":"Talk",
 		"date":"2020/10/16",
 		"info":"Department of Neuroscience, Columbia Unviersity",
-		"image":"devineni.jpg",
+		"prefix":"devineni",
 		"abstract":""
 	}
 	// {
