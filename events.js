@@ -61,6 +61,24 @@
 	
 	var events = [	
 	{
+		"title":"Synthesizing sentences from BCIs",
+		"author":"Gopala Anumanchipalli",
+		"type":"Talk",
+		"date":"2021/02/19",
+		"info":"Weill Institute for Neuroscience, UCSF",
+		"prefix":"anumanchapalli",
+		"abstract":""
+	},
+	{
+		"title":"TBA",
+		"author":"Vivek Athalye",
+		"type":"Talk",
+		"date":"2020/12/11",
+		"info":"Columbia University",
+		"prefix":"athalye",
+		"abstract":""
+	},
+	{
 		"title":"Hippocampal-cortical coordination and memory processing",
 		"author":"Jai Yu",
 		"type":"Talk",
