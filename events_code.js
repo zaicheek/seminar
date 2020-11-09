@@ -139,7 +139,7 @@ function createInfo(event,eDate) {
 		if (event.time!=undefined) {
 			str = str.concat('<h5>'+eDate.toDateString()+' - '+event.time+'</h5>');
 		} else {
-			str = str.concat('<h5>'+eDate.toDateString()+' - 9:30 AM</h5>');
+			str = str.concat('<h5>'+eDate.toDateString()+' - 11 AM</h5>');
 		}
 		str = str.concat('<br>')
 		str = str.concat('<h5>'+event.author+'</h5>')
