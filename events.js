@@ -82,7 +82,7 @@
 		"title":"Hippocampal-cortical coordination and memory processing",
 		"author":"Jai Yu",
 		"type":"Talk",
-		"date":"2020/11/09",
+		"date":"2020/11/13",
 		"info":"University of Chicago",
 		"prefix":"yu",
 		"abstract":""
