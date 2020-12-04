@@ -70,7 +70,7 @@
 		"abstract":""
 	},
 	{
-		"title":"TBA",
+		"title":"Neural reinforcement: re-entering and refining neural dynamics leading to desirable outcomes.",
 		"author":"Vivek Athalye",
 		"type":"Talk",
 		"date":"2020/12/11",
