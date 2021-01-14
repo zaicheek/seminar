@@ -61,6 +61,15 @@
 	
 	var events = [	
 	{
+		"title":"Computational Neuroscience Center Seminar: Neural dynamics shape task organization in multitask networks",
+		"author":"Laura Driscoll",
+		"type":"Talk",
+		"date":"2021/01/15",
+		"info":"Postdoctoral Fellow, Stanford University",
+		"prefix":"driscoll",
+		"abstract":"Little is known about how computations for multiple tasks interact within a single network of neurons because their activity is primarily studied during the performance of a single task. To investigate neural network flexibility for multiple computations, we trained biologically inspired recurrent neural networks (RNNs) to perform a diverse set of sensorimotor and cognitive tasks. Building on previous work that initially characterized neural representations at single snapshots in time, we found that network activity patterns are organized such that the same dynamical elements (fixed points, line attractors, etc.) can be shared across tasks that require similar computations. This property minimizes the redundancy of neural dynamics across all tasks. For example, in two category tasks, the network aligns the initial state of the dynamical system for each task such that the same region of neural state space is reused to implement the same category boundary computation. Shared dynamical components result in similar task computations operating closer together in neural state space. The particular set of tasks employed dictates which features are shared. These observations highlight the value in dynamical systems analysis for the study of neural computation."
+	},
+	{
 		"title":"Synthesizing sentences from BCIs",
 		"author":"Gopala Anumanchipalli",
 		"type":"Talk",
