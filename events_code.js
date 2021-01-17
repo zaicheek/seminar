@@ -85,7 +85,7 @@ function archiveEvent(e,eDate) {
 function buildEvent(e,eDate,type) {
 	let info = createInfo(e,eDate);
 	let temp_div = document.createElement('div');
-	if (e.type=='Talk') {
+	if (e.type=='Talk' || e.type=='CNC') {
 		let modal_id = createModal(e,eDate);
 		temp_div.onclick = function() {openModal(modal_id);}
 		temp_div.setAttribute("class", "info");
