@@ -5,6 +5,15 @@
 	
 	var events = [	
 	{
+		"title":"Real Life Language & Deep-Learning",
+		"author":"Ariel Goldstein",
+		"type":"Talk",
+		"date":"2021/01/22",
+		"info":"Postdoctoral Fellow, Princeton University",
+		"prefix":"goldstein",
+		"abstract":"Language is a hallmark of human cognition. It allows for efficient communication between humans and is a building block for high-level cognition. The question of how linguistic semantic meaning is represented in and produced by the brain is of great interest in cognitive neuroscience. Recently, a deep-learning model showed how next word prediction task gives rise to high order lingual capabilities. In my talk, I will present results linking this deep learning model as well as other concepts from deep learning with language, human behavior, and brain responses. Deep learning offers an alternative framework to understand language in general and the relation between language and the brain in particular. In my research, I collected intracranial neural responses in two central instances of natural language processing: (1) listening to stories, and (2) engaging in real-life conversations. This approach required devising a novel pipeline for collecting large, high-quality neural datasets aligned with natural language production and comprehension. I combined this novel dataset with deep learning methods to examine brain dynamics during free conversations, providing a window into neuro-cognitive processes related to the production and comprehension of speech in real-life contexts. The results will show how a deep-learning framework can shed light on prediction during comprehension and on the importance of context and use of language in naturalistic environments."
+	},
+	{
 		"title":"TBA",
 		"author":"Karen Schroeder",
 		"type":"Talk",
