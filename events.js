@@ -5,6 +5,15 @@
 	
 	var events = [	
 	{
+		"title":"Brain-Computer Interfaces for Human Cognitive Augmentation",
+		"author":"Davide Valeriani",
+		"type":"Talk",
+		"date":"2021/05/21",
+		"info":"Senior Machine Learning Scientist, Neurable Inc",
+		"prefix":"valeriani",
+		"abstract":""
+	},
+	{
 		"title":"Real Life Language & Deep-Learning",
 		"author":"Ariel Goldstein",
 		"type":"Talk",
