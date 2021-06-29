@@ -5,6 +5,24 @@
 	
 	var events = [	
 	{
+		"title":"TBA",
+		"author":"Juan Gallego",
+		"type":"Talk",
+		"date":"2021/10/15",
+		"info":"--",
+		"prefix":"gallego",
+		"abstract":""
+	},
+	{
+		"title":"TBA",
+		"author":"Dalia De Santis",
+		"type":"Talk",
+		"date":"2021/07/16",
+		"info":"--",
+		"prefix":"santis",
+		"abstract":""
+	},
+	{
 		"title":"Brain-Computer Interfaces for Human Cognitive Augmentation",
 		"author":"Davide Valeriani",
 		"type":"Talk",
