@@ -14,7 +14,7 @@
 		"abstract":""
 	},
 	{
-		"title":"TBA",
+		"title":"Optimizing Human-Interface Co-Adaptation: A Body-Machine Interface",
 		"author":"Dalia De Santis",
 		"type":"Talk",
 		"date":"2021/07/16",
