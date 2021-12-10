@@ -5,6 +5,15 @@
 	
 	var events = [	
 	{
+		"title":"Learning to control neuroprosthetics: How flexible is the brain?",
+		"author":"Sofia Sakellaridi",
+		"type":"Talk",
+		"date":"2021/12/17",
+		"info":"--",
+		"prefix":"sakellaridi",
+		"abstract":""
+	},
+	{
 		"title":"TBA",
 		"author":"Juan Gallego",
 		"type":"Talk",
