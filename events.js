@@ -5,6 +5,24 @@
 	
 	var events = [	
 	{
+		"title":"",
+		"author":"Bianca Jones Marlin",
+		"type":"Talk",
+		"date":"2022/03/11",
+		"info":"--",
+		"prefix":"marlin",
+		"abstract":""
+	},
+	{
+		"title":"",
+		"author":"Juan Gallego",
+		"type":"Talk",
+		"date":"2022/02/18",
+		"info":"--",
+		"prefix":"gallego",
+		"abstract":""
+	},
+	{
 		"title":"From agents, to actions ,to interactions, to societies: primates' brain networks for social processing",
 		"author":"Julia Sliwa",
 		"type":"Talk",
