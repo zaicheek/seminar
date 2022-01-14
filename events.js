@@ -5,6 +5,15 @@
 	
 	var events = [	
 	{
+		"title":"From agents, to actions ,to interactions, to societies: primates' brain networks for social processing",
+		"author":"Julia Sliwa",
+		"type":"Talk",
+		"date":"2022/01/21",
+		"info":"--",
+		"prefix":"sliwa",
+		"abstract":""
+	},
+	{
 		"title":"Learning to control neuroprosthetics: How flexible is the brain?",
 		"author":"Sofia Sakellaridi",
 		"type":"Talk",
